@@ -1,2 +1,2 @@
-# Mastering-Nmap
-Mastering Nmap [Video] by Packt Publishing
+# mastering-nmap
+Mastering Nmap course code files
